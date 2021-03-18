@@ -1,0 +1,3 @@
+- 👋 Oi, eu sou a @AndressaRodrigues.
+- 🌱 Atualmente estou estudando Python e estrutura de dados, e também Java para a faculdade.
+- 📫 É possível entrar em contato comigo pelo https://www.linkedin.com/in/andressasoaresrodrigues/
