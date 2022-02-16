@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou a @AndressaRodrigues.
-- 🌱 Atualmente estou estudando Java para o último período do curso de ADS. Também estou estudando engenharia de dados através da Academia da Semantix.
+- 🌱 Atualmente estou estudando Java para o último período do curso de ADS. 
+- Às vezes estou estudando outras coisas também. É possível ver o que tenho praticado no Replit, pelo link do perfi: https://replit.com/@AndressaRodrig1, só não repare a bagunça.
 - 📫 É possível entrar em contato comigo pelo https://www.linkedin.com/in/andressasoaresrodrigues/.
 - 
-Tenho interesse na área de ciência de dados, tanto por ser apaixonada por Inteligência Artificial, tanto por ter cursado metade de uma graduação em física, a qual tive que trancar para trabalhar em um contrato temporário com o IBGE (fui de gráficos para coleta de dados 😅). Agora eu pedi reopção e estou cursando Engenharia da Computação, faço algumas disciplinas, mas sem muito estresse.
-No momento estou no terceiro e último ano do curso de ADS da Unicesumar, com previsão de formatura para metade de 2022.
+No momento estou no terceiro e último ano do curso de ADS da Unicesumar, com previsão de formatura para metade de 2022. Também curso algumas disciplinas da Engenharia de Computação da Universidade Federal do Pampa.
